@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import "../PatientInfo.css";
+import "../Info.css";
 import Button from "react-bootstrap/Button";
 import { Link, useLocation, useNavigate,  } from "react-router-dom";
 import axios from 'axios';
